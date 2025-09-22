@@ -3,7 +3,7 @@
 ## Functions & Scope
 - [X] Closures
 - [X] IIFE (Immediately Invoked Function Expressions)
-- [ ] Higher-Order Functions
+- [X] Higher-Order Functions
 - [ ] Function Currying
 - [ ] Default & Rest Parameters
 - [ ] `this` keyword in different contexts
