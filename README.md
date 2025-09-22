@@ -1,7 +1,7 @@
 # JavaScript Revision Checklist (Moderate → Advanced) ✅
 
 ## Functions & Scope
-- [ ] Closures
+- [X] Closures
 - [ ] IIFE (Immediately Invoked Function Expressions)
 - [ ] Higher-Order Functions
 - [ ] Function Currying
