@@ -2,7 +2,7 @@
 
 ## Functions & Scope
 - [X] Closures
-- [ ] IIFE (Immediately Invoked Function Expressions)
+- [X] IIFE (Immediately Invoked Function Expressions)
 - [ ] Higher-Order Functions
 - [ ] Function Currying
 - [ ] Default & Rest Parameters
