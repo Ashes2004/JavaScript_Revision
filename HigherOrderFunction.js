@@ -21,7 +21,7 @@ function upperCaseName(name) {
     return name.toUpperCase();
 }
 
-console.log(greet("Alice", upperCaseName)); // Hello, ALICE
+console.log(greet("Ashes", upperCaseName)); // Hello, ASHES
 
 
 // Example 2: Function returning another function
