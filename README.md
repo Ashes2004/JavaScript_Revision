@@ -4,7 +4,7 @@
 - [X] Closures
 - [X] IIFE (Immediately Invoked Function Expressions)
 - [X] Higher-Order Functions
-- [ ] Function Currying
+- [X] Function Currying
 - [ ] Default & Rest Parameters
 - [ ] `this` keyword in different contexts
 - [ ] Call, Apply, Bind
