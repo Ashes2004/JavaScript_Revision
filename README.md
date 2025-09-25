@@ -7,7 +7,7 @@
 - [X] Function Currying
 - [X] Default & Rest Parameters
 - [X] `this` keyword in different contexts
-- [ ] Call, Apply, Bind
+- [X] Call, Apply, Bind
 - [ ] Arrow Functions vs Regular Functions
 
 ## Objects & OOP
