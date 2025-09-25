@@ -5,7 +5,7 @@
 - [X] IIFE (Immediately Invoked Function Expressions)
 - [X] Higher-Order Functions
 - [X] Function Currying
-- [ ] Default & Rest Parameters
+- [X] Default & Rest Parameters
 - [ ] `this` keyword in different contexts
 - [ ] Call, Apply, Bind
 - [ ] Arrow Functions vs Regular Functions
