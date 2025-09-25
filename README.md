@@ -6,7 +6,7 @@
 - [X] Higher-Order Functions
 - [X] Function Currying
 - [X] Default & Rest Parameters
-- [ ] `this` keyword in different contexts
+- [X] `this` keyword in different contexts
 - [ ] Call, Apply, Bind
 - [ ] Arrow Functions vs Regular Functions
 
