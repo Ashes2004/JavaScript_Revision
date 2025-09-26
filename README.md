@@ -8,7 +8,7 @@
 - [X] Default & Rest Parameters
 - [X] `this` keyword in different contexts
 - [X] Call, Apply, Bind
-- [ ] Arrow Functions vs Regular Functions
+- [X] Arrow Functions vs Regular Functions
 
 ## Objects & OOP
 - [ ] Object Destructuring & Spread Operator
